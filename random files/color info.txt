@@ -1,0 +1,29 @@
+Text gray
+R79 G78 B76
+H40 S4 V31
+#4f4e4c
+
+pale gray blue
+R201 G208 B216
+H212 S7 V85
+#c9d0d8
+
+Pale Warm gray
+R247 G244 B237
+H42 S4 V97
+#f7f4ed
+
+vivid blue from flower
+R64 G97 B142
+H215 S55 V56
+#40618e
+
+pale yellow
+R219 G219 B97
+H60 S56 V86
+#dbdb61
+
+orange red
+R190 G79 B70
+H4 S63 V75
+#be4f46
